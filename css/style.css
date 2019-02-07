@@ -1,0 +1,39 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#header{
+    background-color:#FF830F;
+    font-size: 18px;
+    color: #212121;
+    text-align: center;
+   padding: 20px 0px;
+}
+
+#content{
+    clear: both;
+    overflow: auto;
+}
+
+#nav{
+ background-color:rgb(206, 206, 206);
+ float: left;
+ width: 25%;
+ height: 500px;
+}
+
+#nav li a{
+    color:#521385
+}
+
+#page_content{
+    float: right;
+    width: 74% ;
+}
+
+#footer{
+ padding:15px;
+ color: red;
+ background-color:#FF830F;
+}
